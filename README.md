@@ -14,7 +14,7 @@ It allows users to quickly search and explore high-quality images in real-time w
 
 ## 📸 Preview
 
-<img src="./public/pixquest-preview.png" width="800" alt="PixQuest App Screenshot"/>
+<img src=".public/pixquest.png" width="800" alt="PixQuest App Screenshot"/>
 
 ---
 
