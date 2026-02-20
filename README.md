@@ -11,7 +11,6 @@ It allows users to quickly search and explore high-quality images in real-time w
 
 ---
 
-## 📸 Preview
 
 ## 📸 Project Preview
 
