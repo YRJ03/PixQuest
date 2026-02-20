@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body.light {
+  background: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background: #0f0f0f;
+  color: #ffffff;
+}
+
+.custom-border {
+  position: relative;
+  padding-right: 14px; /* space for the custom border */
+  display: inline-block;
+}
+
+.custom-border::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 25%;          /* decrease height from top */
+  bottom: 25%;       /* decrease height from bottom */
+  width: 4px;        /* increased border width */
+  background: green; /* border color */
+  border-radius: 4px;
+}
