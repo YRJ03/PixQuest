@@ -7,8 +7,7 @@ It allows users to quickly search and explore high-quality images in real-time w
 
 ## 🚀 Live Demo
 
-🔗 https://pixquest.vercel.app  
-*(Replace with your actual deployed link if different)*
+🔗 [https://pixquest.vercel.app ](https://pix-quest-yuvitech.vercel.app/) 
 
 ---
 
