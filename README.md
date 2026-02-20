@@ -14,7 +14,9 @@ It allows users to quickly search and explore high-quality images in real-time w
 
 ## 📸 Preview
 
-<img src=".public/pixquest.png" width="800" alt="PixQuest App Screenshot"/>
+## 📸 Project Preview
+
+![WeatherIQ Preview](https://raw.githubusercontent.com/YRJ03/PixQuest/main/public/pixquest.png)
 
 ---
 
