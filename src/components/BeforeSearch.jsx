@@ -72,7 +72,7 @@ export default function BeforeSearch({ theme, runSearch }) {
                     <path strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
                 </svg>
             </div>
-            <a href="https://yuvitech.netlify.app/" className="flex items-center text-lg md:text-xl text-blue-500 font-mono font-bold rounded-md transition duration-300 relative group overflow-visible"
+            <a href="https://yuvitech.vercel.app/" className="flex items-center text-lg md:text-xl text-blue-500 font-mono font-bold rounded-md transition duration-300 relative group overflow-visible"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Visit YuviTech website">
